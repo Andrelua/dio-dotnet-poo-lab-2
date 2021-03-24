@@ -1,0 +1,16 @@
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/Dio-series
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/Dio-series.deps.json
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/Dio-series.runtimeconfig.json
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/Dio-series.runtimeconfig.dev.json
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/Dio-series.dll
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/ref/Dio-series.dll
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/bin/Debug/net5.0/Dio-series.pdb
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.csprojAssemblyReference.cache
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.AssemblyInfoInputs.cache
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.AssemblyInfo.cs
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.csproj.CoreCompileInputs.cache
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.dll
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/ref/Dio-series.dll
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.pdb
+/home/andre/Documentos/dio-dotnet-poo-lab-2/Dio-series/obj/Debug/net5.0/Dio-series.genruntimeconfig.cache
